@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Number_trivia
 
 A new Flutter project.
@@ -17,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 =======
 # Number-trivia-flutter
->>>>>>> 70234fcc81384dff908add02c21eb16fb406d664
+

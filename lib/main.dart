@@ -1,15 +1,17 @@
+import 'package:Number_trivia/output_page.dart';
 import 'package:flutter/material.dart';
 // import 'package:device_preview/device_preview.dart';
 // import 'package:flutter/foundation.dart';
 import 'home.dart';
-import 'loading.dart';
+
 
 void main() => runApp(MaterialApp(
   debugShowCheckedModeBanner: false,
       initialRoute: '/home',
       routes: {
-        '/': (context) => Loading(),
+        //'/loading': (context) => Loading(int number),
         '/home': (context) => Home(),
+        '/output': (context) => Output(),
       },
     ));
 // void main() => runApp(

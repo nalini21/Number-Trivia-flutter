@@ -1,3 +1,4 @@
+import 'package:Number_trivia/home.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 

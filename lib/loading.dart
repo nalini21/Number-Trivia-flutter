@@ -26,11 +26,11 @@ class _LoadingState extends State<Loading> {
     });
   }
   void setData2() async {
-    Trivia2 trivia = Trivia2(widget.number);
+    Trivia2 trivia = Trivia2();
     await trivia.getData();    
     String des= trivia.data; 
-    int s=des.indexOf(' '); 
-    int number2= int.parse('${des.substring(0,s)}');
+    int s=des.indexOf('is'); 
+    int number2= int.parse('${des.substring(0,s-1)}');
     Navigator.pushReplacementNamed(context, '/output', arguments: {
       'data': trivia.data,
       'number': number2,

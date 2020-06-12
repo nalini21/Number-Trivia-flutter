@@ -33,19 +33,19 @@ class Output extends StatelessWidget {
             color: Colors.black,
             alignment: Alignment.center,
             child: Column(children: <Widget>[
-              SizedBox(height: 120.h),
+              SizedBox(height: 60.h),
               Expanded(
                 flex: 1,
                 child: Text(
                   '${opt['number']}',
                   style: TextStyle(
                       color: Colors.yellow,
-                      fontSize: 250.ssp,
+                      fontSize: 200.ssp,
                       fontWeight: FontWeight.bold,
                        fontFamily: 'Montserrat'),
                 ),
               ),
-              SizedBox(height: 30.h),
+              //SizedBox(height: 30.h),
               Expanded(
                 flex: 3,
                 child: Container(

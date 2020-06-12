@@ -1,4 +1,4 @@
-# Numphy- Number Trivia Flutter App
+# Numphy- A Number Trivia App
 #### Flutter App which gives you interesting facts about numbers.
 #### Features
 <h5>

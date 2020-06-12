@@ -5,7 +5,7 @@
 <ul>
   <li>You can enter any integer to know any interesting facts about it (if exists)</li>
   <li>Cllick Random Trivia to know about any random number</li>
-  <li>Rive's Guss Animation is implemented in home page, It closes it's eyes when you input something in the text field</li>
+  <li>Rive's Guss Animation is implemented in home page, It closes it's eyes when you input something in the text field, Smiles when you click Random Trivia</li>
 </ul>
   </h5>
   

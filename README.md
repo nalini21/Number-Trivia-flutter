@@ -8,7 +8,7 @@
   <li>Rive's Guss Animation is implemented in home page, It closes it's eyes when you input something in the text field</li>
 </ul>
   </h5>
-
+##### API used: "http://numbersapi.com/"
 #### Download Here
 <img src="assets/apk.png" height=200 width=200></img>
 #### Number Trivia
